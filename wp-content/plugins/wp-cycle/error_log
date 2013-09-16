@@ -1,0 +1,1 @@
+[22-Aug-2013 09:19:57] PHP Fatal error:  Call to undefined function  apply_filters() in /home3/jwalkeru/public_html/heritagecustommasonry/wp-content/plugins/wp-cycle/wp-cycle.php on line 20

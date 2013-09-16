@@ -1,0 +1,4 @@
+[12-Dec-2012 06:42:47] PHP Warning:  preg_grep() expects parameter 2 to be array, null given in /home3/jwalkeru/public_html/heritagecustommasonry/wp-content/themes/genesis/lib/admin/editor.php on line 31
+[12-Dec-2012 06:42:47] PHP Warning:  Illegal offset type in /home3/jwalkeru/public_html/heritagecustommasonry/wp-content/themes/genesis/lib/admin/editor.php on line 31
+[12-Dec-2012 06:42:47] PHP Warning:  preg_grep() expects parameter 2 to be array, null given in /home3/jwalkeru/public_html/heritagecustommasonry/wp-content/themes/genesis/lib/admin/editor.php on line 32
+[12-Dec-2012 06:42:47] PHP Warning:  Illegal offset type in /home3/jwalkeru/public_html/heritagecustommasonry/wp-content/themes/genesis/lib/admin/editor.php on line 32
